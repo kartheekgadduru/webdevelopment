@@ -2,11 +2,10 @@
   
 }
 .first-row, .second-row, .thrid-row, .forth-row, .sixth-row{
-  display:flex;
+  display:inline-block;
   width:100px;
   height:100px;
   color:yellow;
-  border:2px solid black;
-  justify-content:flex-start;
+  border:2px solid black;  
   background:yellow;  
 }
